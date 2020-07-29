@@ -1,4 +1,4 @@
-#Lectura de un archivo XML usando DOM
+# Lectura de un archivo XML usando DOM
 
 ## Autor: Emmanuel Cruz Hernández
 
