@@ -2,7 +2,7 @@
 
 ## Autor: Emmanuel Cruz Hernández
 
-Para ejecutar el proyecto se usan los siguientes comandos:
+### Para ejecutar el proyecto se usan los siguientes comandos:
 
 1. ant build
 
